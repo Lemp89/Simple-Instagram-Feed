@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    font-family: "Lato", sans-serif;
+}
+header {
+    text-align: center;
+}
+section{
+    background: #8d8d8d21;
+    padding: 50px;
+}
+.boxes{
+    background: white;
+    width: 600px;
+    margin:0 auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border: 1px solid #8d8d8d2a;
+    border-radius: 5px;
+}
+.header {
+    padding: 15px;
+}
+.header h2{
+    margin: 0;
+    font-size: 25px;
+}
+.date{
+    float: right;
+    margin: 0;
+}
+img{
+    width: 100%;
+}
+.text{
+    padding: 15px;
+}
